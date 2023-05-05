@@ -1,0 +1,10 @@
+{
+  "name": "node_os",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Pires",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.17.0"
+  }
+}
